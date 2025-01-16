@@ -19,7 +19,7 @@ function changeArticle(index){
         <li><a href="${link.url}">${link.title}</a></li>`)
     
 
-    // Builds the ned of article
+    // Builds the end of article
     newHTML += `
         </ul>
         </article>
